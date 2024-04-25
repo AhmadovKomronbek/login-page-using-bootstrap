@@ -1,0 +1,15 @@
+body{
+    overflow-x: hidden;
+    background-color: #6a6bb6;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.form-box{
+    background-color: #40406c;
+}
+.color-white{
+    color: white !important;
+}
